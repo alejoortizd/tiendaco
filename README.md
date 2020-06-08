@@ -80,9 +80,9 @@
 
 ## Support
 
-Reach out to me at one of the following places!
+Reach out to me  following me on twitter!
 
-- Twitter at <a href="http://twitter.com/@alejoortizd" target="_blank">`@alejoortizd`</a>
+- <a href="http://twitter.com/@alejoortizd" target="_blank">![follow me](https://img.shields.io/twitter/follow/alejoortizd?style=social)</a>
 
 ---
 
