@@ -19,6 +19,8 @@
 
 ## Table of Contents
 
+- [Preview](#preview)
+- [Test](#test)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [FAQ](#faq)
@@ -32,6 +34,12 @@
 
 <img src="https://i.imgur.com/PntASLw.png">
 <img src="https://i.imgur.com/tXl8pyX.png">
+
+---
+
+## Test
+
+<img src="https://i.imgur.com/hXFD6DU.png">
 
 ---
 
